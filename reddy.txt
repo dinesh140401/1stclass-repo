@@ -1,2 +1,16 @@
 hi my name is dinesh reddy
 i want to pull this line from repo
+vim
+echo
+ls
+ls -a
+ls -ltr 
+nproc
+top
+free
+ip config
+pwd
+cd
+cd ..
+touch
+
